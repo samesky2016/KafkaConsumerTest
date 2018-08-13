@@ -134,6 +134,7 @@ public class KafkaConsumerTest
   public static void main(String[] args)
   {
 	  KafkaConsumerTest consumer = new KafkaConsumerTest();
+	  
 	  consumer.startConsume();
   }
 }
